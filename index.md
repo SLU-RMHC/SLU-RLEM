@@ -31,6 +31,10 @@ The following are tutorials by the Jackson Laboratories on the use of OMERO (upo
 
 [Billikenscope](https://www.billikenscope.com)
 
+## Slack Channel
+We are piloting offering support and announcements via Slack.  Please go to this link from any health.slu.edu address and choose RMHC:
+https://rmhchq.slack.com/join/signup
+
 
 
 [Back to Homepage](https://www.slu.edu/medicine/pathology/microscopy-histology-core.php)

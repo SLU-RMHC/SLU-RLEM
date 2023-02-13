@@ -12,6 +12,7 @@ This site will provide you information on submitting samples, booking microscope
 
 [SLU Sample Submission Site](https://slu-mhc.calpendo.com/)
 
+
 [Terms & Conditions of Service](https://github.com/SLU-RMHC/SLU-RMHC-User-Documentation/blob/main/RMHC_Research_Services_Agreement_2022.pdf)
 
 ## Sample Submission and Equipment Booking Tutorial

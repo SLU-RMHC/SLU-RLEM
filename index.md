@@ -19,6 +19,11 @@ This site will provide you information on submitting samples, booking microscope
 
 [Sample Submission and Equipment Booking Tutorials](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/sample_submission)
 
+## Core Information 
+
+[Facility Information for Funding Agencies](https://github.com/SLU-RMHC/SLU-RMHC-User-Documentation/blob/main/RMHC_Resources.docx)
+
+
 ## Data Retrieval Tutorials
 
 [FTP site and Billikenscope Tutorials](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/client_data)

@@ -10,14 +10,11 @@ This site will provide you information on submitting samples, booking microscope
 
 ## Sample Submission
 
-[SLU Sample Submission Site](https://slu-mhc.calpendo.com/)
+[SLU Sample Submission Site](https://airtable.com/appKGXHBfi3xcROaI/shrHJvKvdDE0esAdp)
 
 
 [Terms & Conditions of Service](https://github.com/SLU-RMHC/SLU-RMHC-User-Documentation/blob/main/RMHC_Research_Services_Agreement_2022.pdf)
 
-## Sample Submission and Equipment Booking Tutorial
-
-[Sample Submission and Equipment Booking Tutorials](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/sample_submission)
 
 ## Core Information 
 
@@ -27,6 +24,10 @@ This site will provide you information on submitting samples, booking microscope
 ## Data Retrieval Tutorials
 
 [FTP site and Billikenscope Tutorials](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/client_data)
+
+## SVI Huygens Tutorials on RLEM Workstation
+
+[Deconvolution]
 
 ## OMERO Video Tutorials (external)
 The following are tutorials by the Jackson Laboratories on the use of OMERO (upon which Billikenscope is built).  It would be foolish to try to replicate such a good resource so please view these videos as an introduction to our own Billikenscope system.  Access to the sytem requires an account created by the RMHC staff.  Please see Caroline for more information.

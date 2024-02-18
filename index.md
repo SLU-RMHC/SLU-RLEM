@@ -27,13 +27,13 @@ This site will provide you information on submitting samples, booking microscope
 
 ## SVI Huygens Tutorials on RLEM Workstation
 
-[Information on use of Workstation](https://slusom-microscopyfacilities/SLU-RLEM/main/Huygens_deconvolution.md)
+[Information on use of Workstation](https://github.com/SLUSOM-MicroscopyFacilities/SLU-RLEM/blob/main/Huygens_deconvolution.md))
 
-[Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars)
+[Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars) (external)
 
 ## Imaris Software (with Neuroscience Package)
 
-[Imaris Homeschool](https://imaris.oxinst.com/homeschool)
+[Imaris Homeschool](https://imaris.oxinst.com/homeschool) (external)
 
 ## OMERO Video Tutorials (external)
 The following are tutorials by the Jackson Laboratories on the use of OMERO (upon which Billikenscope is built).  It would be foolish to try to replicate such a good resource so please view these videos as an introduction to our own Billikenscope system.  Access to the sytem requires an account created by the RMHC staff.  Please see Caroline for more information.

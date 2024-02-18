@@ -25,9 +25,7 @@ This site will provide you information on submitting samples, booking microscope
 
 [FTP site and Billikenscope Tutorials](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/client_data)
 
-## SVI Huygens Tutorials on RLEM Workstation
-
-[Information on use of Workstation](https://slusom-microscopyfacilities.gihub.io/SLU-RLEM/Workstation.html)
+## SVI Huygens Tutorials
 
 [Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars) (external)
 

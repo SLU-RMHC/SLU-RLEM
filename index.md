@@ -27,7 +27,7 @@ This site will provide you information on submitting samples, booking microscope
 
 ## SVI Huygens Tutorials on RLEM Workstation
 
-[Information on use of Workstation](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/Huygens_deconvolution.md)
+[Information on use of Workstation](https://slusom-microscopyfacilities/SLU-RLEM/main/Huygens_deconvolution.md)
 
 [Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars)
 

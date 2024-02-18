@@ -14,6 +14,8 @@ Password:  please ask a staff member
 
 ## Accessing files on the FTP Server
 
-Files are stored on the FTP server for 7 days after upload.  Otherwise you will need to request that files be re-imported from AWS for use.  
+Files are stored on the FTP server for 7 days after upload.  Otherwise you will need to request that files be re-imported from AWS for use. 
+
+You can login by opening the file
 
 

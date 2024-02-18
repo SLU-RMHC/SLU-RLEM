@@ -1,7 +1,8 @@
 ---
-title: Huygens Deconvolution
+title: "Huygens Deconvolution"
 layout: page
 filename: Huygens_deconvolution.md
+permalink: /
 --- 
 
 # Huygens Deconvolution

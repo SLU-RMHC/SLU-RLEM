@@ -31,6 +31,10 @@ This site will provide you information on submitting samples, booking microscope
 
 [Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars)
 
+## Imaris Software (with Neuroscience Package)
+
+[Imaris Homeschool](https://imaris.oxinst.com/homeschool)
+
 ## OMERO Video Tutorials (external)
 The following are tutorials by the Jackson Laboratories on the use of OMERO (upon which Billikenscope is built).  It would be foolish to try to replicate such a good resource so please view these videos as an introduction to our own Billikenscope system.  Access to the sytem requires an account created by the RMHC staff.  Please see Caroline for more information.
 

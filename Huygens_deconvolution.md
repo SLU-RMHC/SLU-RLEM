@@ -39,7 +39,7 @@ In addition the latest user manual is present on the Desktop for viewing.
 
 ## Saving data
 
-Data can be re-uploaded to the FTP server from the workstation machine after using Huygens.  Please delete all files that you downloaded to the workstation in preparation for the next user and to protect your data.  The data storage on the system will be automatically cleared every 30 days.  
+Data can be re-uploaded to the FTP server from the workstation machine after using Huygens.  Please delete all files that you downloaded to the workstation in preparation for the next user and to protect your data.  The data storage on the system will be automatically cleared every 30 days.  Please remember to logout of your session.
 
 
 

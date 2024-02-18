@@ -1,16 +1,16 @@
 ---
-title: RMHC@SLU User Documentation
+title: RLEM@SLU User Documentation
 layout: page
 filename: index.md
 --- 
 
-# User Documentation for Users of the Saint Louis University Research Microscopy and Histology Core
+# User Documentation for Users of the Saint Louis University Research Light and Electron Microscopy Facility and Advanced Spatial Biology and Research Histology Facility.
 
 This site will provide you information on submitting samples, booking microscopes, and retrieving your data.  
 
 ## Sample Submission
 
-[SLU Sample Submission Site](https://airtable.com/appKGXHBfi3xcROaI/shrHJvKvdDE0esAdp)
+[SLU ASBRH Sample Submission Site](https://airtable.com/appKGXHBfi3xcROaI/shrHJvKvdDE0esAdp)
 
 
 [Terms & Conditions of Service](https://github.com/SLU-RMHC/SLU-RMHC-User-Documentation/blob/main/RMHC_Research_Services_Agreement_2022.pdf)

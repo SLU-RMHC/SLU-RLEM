@@ -27,7 +27,11 @@ This site will provide you information on submitting samples, booking microscope
 
 ## SVI Huygens Tutorials on RLEM Workstation
 
-[Deconvolution]
+[Information on use of Workstation](https://slu-rmhc.github.io/SLU-RMHC-User-Documentation/Huygens_deconvolution.md)
+
+[Webinar based tutorials from SVI Huygens](https://svi.nl/Webinars)
+
+[User Manual for SVI Huygens Professional]
 
 ## OMERO Video Tutorials (external)
 The following are tutorials by the Jackson Laboratories on the use of OMERO (upon which Billikenscope is built).  It would be foolish to try to replicate such a good resource so please view these videos as an introduction to our own Billikenscope system.  Access to the sytem requires an account created by the RMHC staff.  Please see Caroline for more information.
